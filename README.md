@@ -1,4 +1,4 @@
-# IMAC_XLII
+# Risk Optimal Material Test Planning using Value of Information Analysis
 
 Value of information analysis is an established statistical method for quantifying how much engineers should be willing to pay for data (of a specified “quality”), in the context of supporting a decision problem. In this paper, an application is detailed concerning pre-commissioning testing requirements.
 Toughness is a material property that describes a resistance to damage, particularly cracks. The procedures required to obtain this data are relatively complex and intricate, both in terms of preparation of the specimens, and in performing the measurements.
